@@ -32,7 +32,7 @@ nav ul {
 }
 .navItemsUpper {
   height: 80px;
-  width: 75px;
+  width: 70px;
   display: flex;
   align-items: flex-start;
   justify-content: flex-end;
@@ -86,7 +86,7 @@ section{
 .col{
     display: fle;
 }
-li{
+ section li{
     list-style-type: none;
     margin-bottom: 0.7em;
 }
