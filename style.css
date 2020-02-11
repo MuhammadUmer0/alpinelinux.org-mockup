@@ -3,10 +3,6 @@
   padding: 0;
   font-family: sans-serif;
 }
-body {
-  /* background-image: url("images/banner.jpg");
-    background-repeat: no-repeat; */
-}
 header {
   background-color: aqua;
   height: 80px;
@@ -16,8 +12,7 @@ header {
   align-items: center;
   justify-content: space-around;
 }
-nav {
-}
+
 header img {
   height: 50px;
   width: 193px;
@@ -32,17 +27,14 @@ ul {
   display: flex;
   align-items: flex-end;
   justify-content: flex-start;
-
   width: 150px;
-  background-color: indianred;
 }
 .navItemsUpper {
   height: 80px;
-  width: 70px;
+  width: 75px;
   display: flex;
   align-items: flex-start;
   justify-content: flex-end;
-  background-color: indigo;
 }
 .navItems {
   height: 10px;
